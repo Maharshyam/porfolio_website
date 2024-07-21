@@ -1,0 +1,88 @@
+Shyam Kumar
+============
+
+Contact Information
+-------------------
+Email: shyam@example.com
+Phone: +123-456-7890
+Address: 123 Web Dev Lane, Technoville, Techland
+
+Professional Summary
+--------------------
+I am a passionate web developer with over 5 years of experience in creating dynamic and responsive websites. I specialize in front-end development using HTML, CSS, JavaScript, and various frameworks. I am also skilled in graphic design and enjoy combining my technical and creative skills to deliver exceptional user experiences.
+
+Skills
+------
+- HTML, CSS, JavaScript
+- React, Angular, Vue.js
+- Node.js, Express.js
+- MongoDB, MySQL
+- Adobe Photoshop, Illustrator
+- Responsive Design
+- Version Control (Git)
+- Agile Methodologies
+
+Experience
+----------
+Web Developer at Tech Solutions Inc.
+------------------------------------
+(January 2020 - Present)
+- Developed and maintained multiple client websites using modern web technologies.
+- Collaborated with designers and back-end developers to create seamless user experiences.
+- Implemented responsive design principles to ensure websites were mobile-friendly.
+- Optimized website performance and improved loading times by 30%.
+
+Front-End Developer at Creative Web Agency
+------------------------------------------
+(March 2017 - December 2019)
+- Created engaging and interactive web pages for various clients.
+- Worked closely with clients to understand their requirements and deliver tailored solutions.
+- Used frameworks like React and Vue.js to build dynamic single-page applications.
+- Ensured cross-browser compatibility and fixed bugs in legacy code.
+
+Education
+---------
+Bachelor of Science in Computer Science
+---------------------------------------
+Techland University, Technoville
+Graduated: May 2016
+
+Certifications
+--------------
+- Certified JavaScript Developer
+- Front-End Web Development Certification
+- Graphic Design Professional Certificate
+
+Projects
+--------
+Portfolio Website
+-----------------
+- Designed and developed a personal portfolio website to showcase my work and skills.
+- Used HTML, CSS, JavaScript, and React to create a modern and responsive design.
+- Integrated a contact form and linked to social media profiles.
+
+E-commerce Website
+-------------------
+- Developed an e-commerce website for a local business.
+- Implemented a user-friendly shopping cart and checkout process.
+- Used Node.js and MongoDB for the back-end and database management.
+
+Volunteer Work
+--------------
+Coding Mentor
+-------------
+- Volunteered as a mentor for a local coding bootcamp.
+- Assisted students with their projects and helped them understand complex concepts.
+- Conducted workshops on web development and graphic design.
+
+Interests
+---------
+- Web Development
+- Graphic Design
+- Technology Trends
+- Open Source Contributions
+- Photography
+
+References
+----------
+Available upon request.

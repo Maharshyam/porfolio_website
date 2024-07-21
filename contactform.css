@@ -1,0 +1,98 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #dabdbd;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #232029;
+    color: rgb(2, 2, 2);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.sidebar nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar nav ul li {
+    margin: 20px 0;
+}
+
+.sidebar nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.sidebar nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    flex-grow: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.contactform {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contactform h1 {
+    margin-bottom: 20px;
+}
+
+.contactform .mb-3 {
+    margin-bottom: 15px;
+}
+
+.contactform label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contactform input[type="email"],
+.contactform input[type="phone"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.contactform .form-check {
+    margin-bottom: 20px;
+}
+
+.contactform .btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.contactform .btn:hover {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.contactform .form-text {
+    color: #1170c4;
+    font-size: 12px;
+}
+
